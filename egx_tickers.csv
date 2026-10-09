@@ -1,0 +1,42 @@
+ticker,name,sector
+COMI.CA,Commercial International Bank,Banks
+CIEB.CA,Credit Agricole Egypt,Banks
+ADIB.CA,Abu Dhabi Islamic Bank Egypt,Banks
+QNBA.CA,QNB Alahli,Banks
+HDBK.CA,Housing & Development Bank,Banks
+HRHO.CA,EFG Holding,Financial Services
+EFIH.CA,e-finance,Financial Services
+FWRY.CA,Fawry,Financial Services
+BTFH.CA,Beltone Holding,Financial Services
+CCAP.CA,Qalaa Holdings,Financial Services
+TMGH.CA,Talaat Moustafa Group,Real Estate
+PHDC.CA,Palm Hills Development,Real Estate
+OCDI.CA,SODIC,Real Estate
+ORHD.CA,Orascom Development Egypt,Real Estate
+EMFD.CA,Emaar Misr,Real Estate
+HELI.CA,Heliopolis Housing,Real Estate
+ARAB.CA,Arab Developers Holding,Real Estate
+EAST.CA,Eastern Company,Consumer
+EFID.CA,Edita Food Industries,Consumer
+JUFO.CA,Juhayna Food,Consumer
+OLFI.CA,Obour Land,Consumer
+DOMT.CA,Domty,Consumer
+ETEL.CA,Telecom Egypt,Telecom
+ORAS.CA,Orascom Construction,Construction
+SWDY.CA,Elsewedy Electric,Industrials
+ORWE.CA,Oriental Weavers,Industrials
+ABUK.CA,Abu Qir Fertilizers,Chemicals
+MFPC.CA,Misr Fertilizers MOPCO,Chemicals
+SKPC.CA,Sidi Kerir Petrochemicals,Chemicals
+EGCH.CA,Egyptian Chemical Industries Kima,Chemicals
+ESRS.CA,Ezz Steel,Materials
+EGAL.CA,Egypt Aluminum,Materials
+SCEM.CA,Sinai Cement,Materials
+SVCE.CA,South Valley Cement,Materials
+AMOC.CA,Alexandria Mineral Oils,Energy
+EKHO.CA,Egypt Kuwait Holding,Diversified
+EKHOA.CA,Egypt Kuwait Holding (EGP),Diversified
+CLHO.CA,Cleopatra Hospital,Healthcare
+ISPH.CA,Ibnsina Pharma,Healthcare
+RAYA.CA,Raya Holding,Technology
+TALM.CA,Taaleem Management,Education
